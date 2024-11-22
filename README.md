@@ -1,5 +1,6 @@
 Superstore is a fictional retail company based in the United States. They specialize in selling furniture, office supplies, and technology products.
 
+
 Business Questions:
 Which states and cities are generating the highest revenue?
 Which product category is both the best-selling and the most profitable?
